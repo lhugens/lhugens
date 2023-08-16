@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: It's the first time I'm doing this.
+
 <!--
 **lhugens/lhugens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

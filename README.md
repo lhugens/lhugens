@@ -2,9 +2,9 @@
 
 🛠️ My tech toolkit inclde Python, Bash, Vim, Linux, Git, C++, Go, Swift, Haskell, Rust andrecently Mojo.
 
-🧠I have a Physics background, bachelor's and master's, so I think the way I reason about things can be traced back to that.
+🧠 I have a Physics background, bachelor's and master's, so I think the way I reason about things can be traced back to that.
 
-❤️ N w I will pursue applying technology to the world of health. 🌟
+❤️  Now I will pursue applying technology to the world of health. 🌟
 
 🌱 I’m currently learning **Mojo**
 

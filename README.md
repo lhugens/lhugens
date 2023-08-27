@@ -13,5 +13,5 @@ Now I will pursue applying technilogy to the world of health. 🌟
 
 ---
 
-[![Linkedin: Leonardo Hügens](https://img.shieldsblue?at-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)
+!![Linkedin Leonardo_Hügens](https://img.shieldsblue?at-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)
 [![GitHub lhugens](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/lhugens)

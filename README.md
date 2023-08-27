@@ -4,7 +4,7 @@
 
 🧠 I have a Physics background, bachelor's and master's, so I think the way I reason about things can be traced back to that.
 
-❤️  Now I will pursue applying technology to the world of health. 🌟
+❤️  Now I will pursue applying technology to the world of health.
 
 🌱 I’m currently learning **Mojo**
 

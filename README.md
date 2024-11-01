@@ -1,18 +1,17 @@
-## Hi there! 👋 My name is Leonardo Hügens, and I'm an avid tech enthusiast.
+<h2> Hi, I'm Leonardo Hügens! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Code Cadet at <a href="http://www.codeforall.com">Code For All_</a>
+</em></p>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" />
+[![Linkedin: leonardohugens](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)
+[![GitHub lhugens](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/lhugens)
 
- <br><br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhugens&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+### A little more about me...  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhugens&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+```javascript
+const leonardo = {
+  code: [Java, Python, C, C++, Javascript, SQL, Bash],
+  challenge: "I am doing the 14-week intensive FullStack Programming Bootcamp at Code For All_!"
+}
+```

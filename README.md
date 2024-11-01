@@ -2,7 +2,7 @@
 <p><em>Code Cadet at <a href="http://www.codeforall.com">Code For All_</a>
 </em></p>
 
-[![Linkedin: leonardohugens](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)
+[![Linkedin: leonardohugens](https://img.shields.io/badge/-leonardohugens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)
 [![GitHub lhugens](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/lhugens)
 
 

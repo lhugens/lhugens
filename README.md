@@ -1,55 +1,18 @@
 ## Hi there! 👋 My name is Leonardo Hügens, and I'm an avid tech enthusiast.
 
-<p align="center">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-</p>
-
-<p align="center">
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" />
-</p>
-
 
  <br><br>
 
-<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhugens&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
-
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhugens&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-</p>

@@ -1,4 +1,4 @@
-<center>
+<div>
 ## Hi there! 👋 My name is Leonardo Hügens, and I'm an avid tech enthusiast.
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -17,4 +17,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhugens&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhugens&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+</div>

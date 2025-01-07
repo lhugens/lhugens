@@ -11,6 +11,7 @@
 ```javascript
 const leonardo = {
   code: [Java, Python, C, C++, Javascript, SQL, Bash],
-  challenge: "I recently completed the 14-week intensive FullStack Programming Bootcamp at Code For All_! Now I'm looking for opportunities to apply my knowledge in a professional setting, and to keep learning!"
+  challenge: "I recently completed the 14-week intensive FullStack Programming Bootcamp at Code For All_!" +
+  " Now I'm looking for opportunities to apply my knowledge in a professional setting, and to keep learning!"
 }
 ```

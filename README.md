@@ -1,5 +1,5 @@
 <h2> Hi, I'm Leonardo Hügens!</h2>
-<p><em>Code Cadet at <a href="http://www.codeforall.com">Code For All_</a>
+<p><em>Junior Software Developer</a>
 </em></p>
 
 [![Linkedin: leonardohugens](https://img.shields.io/badge/-leonardohugens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)

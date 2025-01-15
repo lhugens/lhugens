@@ -1,7 +1,6 @@
 <h2> Hi, I'm Leonardo Hügens!</h2>
 <p>
-  <em>Junior Software Developer</em>
-  <a href="https://leonardohugens.io">Personal Website</a>
+  <a href="https://leonardohugens.io">Junior Software Developer</a>
 </p>
 
 [![Linkedin: leonardohugens](https://img.shields.io/badge/-leonardohugens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohugens/)](https://www.linkedin.com/in/leonardohugens/)

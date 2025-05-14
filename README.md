@@ -9,6 +9,6 @@
 ```javascript
 const leonardo = {
   code: [Java, Python, C, C++, Javascript, SQL, Bash],
-  challenge: "I work at VORTEX CoLab, developing for autonomous robotics systems!"
+  challenge: "I work at VORTEX-CoLab, developing for autonomous robotics systems!"
 }
 ```

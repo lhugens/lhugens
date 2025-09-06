@@ -4,11 +4,5 @@
 [![GitHub lhugens](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/lhugens)
 
 
-### A little more about me...  
-
-```javascript
-const leonardo = {
-  code: [Java, Python, C, C++, Javascript, SQL, Bash],
-  challenge: "I work at VORTEX-CoLab, developing for autonomous robotics systems!"
-}
-```
+I'm looking for opportunities to contribute to meaninful projects, in C or C++ if possible, but I'm also comfortable with Java and Python.
+Recently, I developed an interest in Embedded Systems, which I'm pursuing with avidness.
